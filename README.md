@@ -2,6 +2,7 @@
 
 ### I'm currently working on:
 * Running through [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html) in my repo [Rusts By Example](https://github.com/flintyglomgold/rusts_by_example)
+* * This is more of a diary of exercises completed than any kind of additional information or contextualization.
 
 ### I'm currently studying:
 * The very basics of [Godot](https://godotengine.org/)
